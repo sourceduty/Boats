@@ -1,6 +1,6 @@
 ![Waterfall Yacht](https://github.com/sourceduty/Boats/assets/123030236/802895b2-4f7c-49a3-b34f-dd04987760dd)
 
-> Classic, luxury, high-performance, heavy-duty and electric water vessel designs.
+> Classic, luxury, high-performance, heavy-duty and electric water vessel design.
 
 #
 
