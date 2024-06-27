@@ -55,6 +55,8 @@ Preserving and studying antique water vessels provide invaluable insights into t
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
+<br>
+[Airplane Design](https://github.com/sourceduty/Airplane_Design)
 
 #
 
