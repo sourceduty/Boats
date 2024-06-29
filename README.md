@@ -82,7 +82,7 @@ In conclusion, the Floating Sports Field barge represents a fascinating intersec
 
 <br>    
 </details>
-<details><summary>Red British Double Decker Pontoon Boat</summary>
+<details><summary>Red British Double-Decker Pontoon Boat</summary>
 <br>
 
 ![Red British Double-Decker Pontoon Boat Ferry](https://github.com/sourceduty/Boats/assets/123030236/5123fee4-8772-44ab-9220-acfbde7b5364)
