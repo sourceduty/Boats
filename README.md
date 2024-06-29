@@ -95,6 +95,8 @@ From a technical standpoint, the double-decker pontoon ferry boat is engineered 
 
 The introduction of this double-decker pontoon ferry boat could revolutionize urban river transport, blending nostalgia with contemporary needs. It offers a sustainable and stylish alternative to traditional ferry services, making daily commutes, leisure cruises, and sightseeing tours an unforgettable experience. By marrying the beloved double-decker bus design with the functionality of a pontoon ferry, this concept vessel not only preserves a piece of British heritage but also paves the way for innovative public transportation solutions. Whether it’s crossing the Thames or navigating other major rivers, this unique ferry boat is set to become a celebrated icon on the water, much like its famous road-going predecessor.
 
+![British Laughs](https://github.com/sourceduty/Boats/assets/123030236/c9d4c90f-776b-45f5-a2c8-c8b6e7e7a8cd)
+
 <br>    
 </details>
 
