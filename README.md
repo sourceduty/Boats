@@ -182,6 +182,23 @@ print(f"Acceleration in planing mode: {a_planing:.2f} m/s^2")
 
 # Steady-state condition (T = D_planing)
 # No acceleration, speed is constant
+
+#
+
+Summary of Equations:
+
+Initial Acceleration:
+T - c_d * v^2 = m * dv/dt
+
+Critical Speed for Planing:
+v_crit = sqrt( (2 * m * g) / (rho * A_L * C_L) )
+
+Planing Mode Drag:
+D_planing = c_d' * v^2
+
+Steady-State Condition:
+T = D_planing
+
 ```
 
 <br>    
