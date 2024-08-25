@@ -17,7 +17,7 @@ Electric boat, ship, and yacht designs represent the forefront of sustainable ma
 #
 ### Submarines
 
-![Sem-Submersible Boat Design Concept](https://github.com/sourceduty/Boats/assets/123030236/dcc22843-bb5e-4bed-91ec-cea5b98794a5)
+![Submarine](https://github.com/user-attachments/assets/feeeb6b0-0258-425c-becd-f58c4790fad6)
 
 Submarines are specialized underwater vessels designed for a variety of purposes, including military, scientific, and recreational uses. Military submarines are often equipped with advanced technology for stealth, surveillance, and combat, including torpedoes, missile systems, and sonar. These submarines are capable of operating at great depths and for extended periods, making them crucial assets for naval warfare and strategic deterrence. Scientific submarines, on the other hand, are used for oceanographic research and exploration. They allow scientists to study marine life, geology, and underwater ecosystems in detail, often venturing into the deepest parts of the ocean. Recreational submarines, though less common, offer unique underwater experiences for tourists and enthusiasts, providing a glimpse into the underwater world without the need for diving equipment.
 
