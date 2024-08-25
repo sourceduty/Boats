@@ -215,6 +215,12 @@ Each hull design has its advantages and is chosen based on the specific needs an
 [Trains](https://github.com/sourceduty/Trains)
 <br>
 [Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
+<br>
+[Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+<br>
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
 
 #
 
