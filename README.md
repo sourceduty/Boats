@@ -99,6 +99,19 @@ The introduction of this double-decker pontoon ferry boat could revolutionize ur
 
 <br>    
 </details>
+<details><summary>Scissor Door Speedboat</summary>
+<br>
+
+![Scissor Door Speedboat](https://github.com/user-attachments/assets/b7dcabb1-c028-4da2-945c-165f70a49ec6)
+
+The Scissor Door Speedboat concept is a visionary blend of cutting-edge design and luxurious functionality, aimed at redefining the boating experience. Its sleek, aerodynamic silhouette is crafted to minimize drag, allowing for exceptional speed and maneuverability on the water. The boat's exterior features a metallic silver finish that mirrors the surrounding environment, creating a seamless visual integration with the sea and sky.
+
+A standout feature of this concept is the innovative scissor doors, inspired by high-end sports cars. These doors open vertically, not only providing a dramatic visual effect but also enhancing practicality by facilitating easy entry and exit. Inside, the speedboat offers a luxurious, minimalist interior designed for comfort and elegance. Ergonomically designed seats and a user-friendly dashboard create a space that is both functional and inviting, ensuring passengers experience the ultimate in relaxation and style.
+
+Performance and technology are at the heart of the Scissor Door Speedboat. Equipped with state-of-the-art propulsion systems, this boat delivers high-speed capabilities while maintaining a smooth and stable ride. Advanced onboard technology, including digital displays and automated safety features, provides a seamless and safe boating experience. Additionally, the concept emphasizes sustainability, incorporating eco-friendly materials and energy-efficient engines, aligning luxury with environmental responsibility. This speedboat is a testament to the future of luxury marine travel, where innovation meets elegance on the open water.
+
+<br>    
+</details>
 
 #
 ### Boat Notes
