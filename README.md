@@ -17,13 +17,15 @@ Electric boat, ship, and yacht designs represent the forefront of sustainable ma
 #
 ### Submarines
 
-![Submarine](https://github.com/user-attachments/assets/bd3bc20c-6b43-4760-80bb-0d886b947290)
+![Research](https://github.com/user-attachments/assets/9e7e815c-07bb-4940-939a-9c0110b55ec2)
 
 Submarines are specialized underwater vessels designed for a variety of purposes, including military, scientific, and recreational uses. Military submarines are often equipped with advanced technology for stealth, surveillance, and combat, including torpedoes, missile systems, and sonar. These submarines are capable of operating at great depths and for extended periods, making them crucial assets for naval warfare and strategic deterrence. Scientific submarines, on the other hand, are used for oceanographic research and exploration. They allow scientists to study marine life, geology, and underwater ecosystems in detail, often venturing into the deepest parts of the ocean. Recreational submarines, though less common, offer unique underwater experiences for tourists and enthusiasts, providing a glimpse into the underwater world without the need for diving equipment.
 
 Semisubmersible boats are partially submersible vessels that operate with their hulls mostly submerged while keeping part of the structure above water. These boats are used for a variety of applications, including research, tourism, and special operations. Semisubmersibles offer the advantage of stability and reduced visibility, making them suitable for covert missions or operations in rough sea conditions. In the tourism industry, semisubmersible boats provide a unique experience for passengers, allowing them to view underwater environments through large windows while remaining dry and comfortable. This type of vessel is particularly popular in tropical and coral reef areas, where clear waters and abundant marine life create captivating underwater vistas.
 
 Both submarines and semisubmersible boats demonstrate significant advancements in marine technology and design. Submarines, with their ability to dive to great depths and stay submerged for long periods, represent the pinnacle of underwater engineering, balancing the challenges of pressure, buoyancy, and propulsion in a hostile environment. Semisubmersibles, with their hybrid nature, offer versatility and unique operational capabilities that bridge the gap between traditional surface vessels and full submarines. Innovations in materials, propulsion systems, and electronic controls continue to enhance the performance and capabilities of these vessels, opening new possibilities for exploration, research, and commercial use. Together, they expand our ability to navigate, study, and utilize the underwater world, contributing to advances in science, defense, and recreation.
+
+![Submarine](https://github.com/user-attachments/assets/bd3bc20c-6b43-4760-80bb-0d886b947290)
 
 #
 ### Hovercrafts
