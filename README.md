@@ -227,6 +227,8 @@ Each hull design has its advantages and is chosen based on the specific needs an
 [Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
 <br>
 [Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
+<br>
+[Military Automation](https://github.com/sourceduty/Military_Automation)
 
 #
 
