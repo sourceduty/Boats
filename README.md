@@ -207,6 +207,18 @@ Each hull design has its advantages and is chosen based on the specific needs an
 <br>    
 </details>
 
+<details><summary>Boat Cleaning</summary>
+<br>
+
+![Scuba Scrubber](https://github.com/user-attachments/assets/b793997a-5e35-40f8-9428-caae7bbb8d83)
+
+Keeping marine vessels clean is essential for maintaining their efficiency, longevity, and environmental compliance. Accumulation of biofouling, such as barnacles and algae, on the hull can increase drag, leading to higher fuel consumption and reduced speed. Regular cleaning prevents this buildup, ensuring smooth sailing and minimizing the vessel's environmental footprint. Additionally, a clean vessel avoids potential mechanical failures caused by debris or contaminants in the engine or other operational systems.
+
+Cleanliness also helps in preserving marine ecosystems. Marine vessels, especially those traveling internationally, can unintentionally transfer invasive species if biofouling is not properly managed. By implementing regular cleaning schedules and using environmentally friendly cleaning products, shipowners can minimize their impact on marine habitats. A clean vessel not only performs better but also supports global efforts to protect and sustain the ocean environment.
+
+<br>    
+</details>
+
 #
 ### Related Links
 
