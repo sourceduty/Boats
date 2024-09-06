@@ -241,6 +241,10 @@ Cleanliness also helps in preserving marine ecosystems. Marine vessels, especial
 [Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
 <br>
 [Military Automation](https://github.com/sourceduty/Military_Automation)
+<br>
+[Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
+<br>
+[Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
 
 #
 
