@@ -245,6 +245,18 @@ Cleanliness also helps in preserving marine ecosystems. Marine vessels, especial
 [Fishing Expert](https://github.com/sourceduty/Fishing_Expert)
 <br>
 [Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
+<br>
+[Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
+<br>
+[Urine Clarifier](https://github.com/sourceduty/Urine_Clarifier)
+<br>
+[Food Inhalant](https://github.com/sourceduty/Food_Inhalant)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
 
 #
 
