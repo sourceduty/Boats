@@ -264,6 +264,10 @@ Cleanliness also helps in preserving marine ecosystems. Marine vessels, especial
 
 #
 
+![Boating](https://github.com/user-attachments/assets/d2a518b8-5a8d-4839-a31b-cd2dae4de885)
+
+#
+
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 ***
