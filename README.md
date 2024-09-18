@@ -268,7 +268,7 @@ Cleanliness also helps in preserving marine ecosystems. Marine vessels, especial
 
 #
 
-![Boating](https://github.com/user-attachments/assets/d2a518b8-5a8d-4839-a31b-cd2dae4de885)
+![Waterfall Yacht](https://github.com/user-attachments/assets/0fa34728-f86e-466e-9267-1717e8b103b4)
 
 #
 
