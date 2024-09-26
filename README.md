@@ -15,7 +15,7 @@ Heavy-duty boat, ship, and yacht designs are built for strength, durability, and
 Electric boat, ship, and yacht designs represent the forefront of sustainable marine technology. These vessels utilize electric propulsion systems powered by batteries or hybrid systems combining electric and traditional engines. The design focuses on reducing environmental impact through zero-emission propulsion, energy-efficient systems, and renewable energy sources like solar panels. Electric boats often feature sleek, modern aesthetics and quiet operation, making them ideal for eco-conscious boaters and those seeking a more serene on-water experience. As technology advances, electric designs continue to evolve, offering greater range, efficiency, and performance, positioning them as a crucial component of the future of sustainable maritime travel.
 
 #
-### Luzury Yachts and Superyachts
+### Luxury Yachts and Superyachts
 
 ![Waterfall Yacht](https://github.com/sourceduty/Boats/assets/123030236/802895b2-4f7c-49a3-b34f-dd04987760dd)
 
