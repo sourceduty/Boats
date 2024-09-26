@@ -1,4 +1,4 @@
-![Waterfall Yacht](https://github.com/sourceduty/Boats/assets/123030236/802895b2-4f7c-49a3-b34f-dd04987760dd)
+![Boat Jump](https://github.com/user-attachments/assets/f613db01-a6e6-4229-a596-f63ff30a43cc)
 
 > Classic, luxury, high-performance, heavy-duty and electric water vessel design.
 
@@ -13,6 +13,15 @@ High-performance boat, ship, and yacht designs emphasize speed, agility, and adv
 Heavy-duty boat, ship, and yacht designs are built for strength, durability, and reliability in the most challenging marine environments. These vessels are often used for commercial, industrial, or military purposes, requiring robust construction to withstand harsh conditions and heavy loads. Heavy-duty designs incorporate reinforced hulls, powerful engines, and advanced navigation systems to ensure safety and performance in rough seas. They often feature functional layouts with ample cargo space, sturdy decks, and specialized equipment for tasks such as fishing, towing, or transport. The design emphasizes practicality and resilience, making these vessels essential for demanding maritime operations.
 
 Electric boat, ship, and yacht designs represent the forefront of sustainable marine technology. These vessels utilize electric propulsion systems powered by batteries or hybrid systems combining electric and traditional engines. The design focuses on reducing environmental impact through zero-emission propulsion, energy-efficient systems, and renewable energy sources like solar panels. Electric boats often feature sleek, modern aesthetics and quiet operation, making them ideal for eco-conscious boaters and those seeking a more serene on-water experience. As technology advances, electric designs continue to evolve, offering greater range, efficiency, and performance, positioning them as a crucial component of the future of sustainable maritime travel.
+
+#
+### Luzury Yachts and Superyachts
+
+![Waterfall Yacht](https://github.com/sourceduty/Boats/assets/123030236/802895b2-4f7c-49a3-b34f-dd04987760dd)
+
+Luxury yachts and superyachts represent the pinnacle of maritime opulence and engineering sophistication. These vessels, often stretching over 100 feet, are custom-designed with extravagant amenities such as multiple decks, helipads, swimming pools, and spacious cabins adorned with the finest materials. The interior of a luxury yacht is akin to a floating mansion, featuring gourmet kitchens, lavish lounges, and state-of-the-art entertainment systems. Owners and guests enjoy unparalleled comfort, privacy, and access to remote destinations, making these yachts symbols of both wealth and a lifestyle centered around exclusivity and relaxation.
+
+Superyachts take this concept even further, often exceeding 200 feet and providing a level of service and amenities comparable to five-star hotels. These vessels are equipped with advanced navigation and stabilization technology, allowing for smooth cruising in various sea conditions. Superyachts frequently include additional features such as cinemas, gyms, and even submarines or watercraft for exploring the surroundings. Crewed by professional staff including chefs, captains, and service personnel, superyachts offer a bespoke experience tailored to the owner's preferences, making them the ultimate expression of luxury and personal freedom on the water.
 
 #
 ### Submarines
