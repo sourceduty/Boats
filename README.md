@@ -25,9 +25,14 @@ Semisubmersible boats are partially submersible vessels that operate with their 
 
 Both submarines and semisubmersible boats demonstrate significant advancements in marine technology and design. Submarines, with their ability to dive to great depths and stay submerged for long periods, represent the pinnacle of underwater engineering, balancing the challenges of pressure, buoyancy, and propulsion in a hostile environment. Semisubmersibles, with their hybrid nature, offer versatility and unique operational capabilities that bridge the gap between traditional surface vessels and full submarines. Innovations in materials, propulsion systems, and electronic controls continue to enhance the performance and capabilities of these vessels, opening new possibilities for exploration, research, and commercial use. Together, they expand our ability to navigate, study, and utilize the underwater world, contributing to advances in science, defense, and recreation.
 
-<br>
+#
+### Drone Boats
 
-![Submarine](https://github.com/user-attachments/assets/bd3bc20c-6b43-4760-80bb-0d886b947290)
+![Drone Boat](https://github.com/user-attachments/assets/f37d9cdc-c714-4b88-af5f-80185afd80bc)
+
+Remote controlled driverless drone boats and ships are innovative maritime technologies designed to operate autonomously or with minimal human intervention. These vessels use advanced navigation systems, sensors, and AI to perform a variety of tasks such as surveillance, environmental monitoring, and cargo transport. By eliminating the need for on-board crews, these drone ships can operate more efficiently and safely in hazardous conditions, such as extreme weather or military conflict zones. Remote operators can control and monitor these vessels from a distance, ensuring high levels of precision and responsiveness in real-time.
+
+The use of drone boats and ships is expanding in various industries, including commercial shipping, defense, and scientific research. For commercial applications, they offer the potential to reduce operational costs by cutting down on crew expenses and optimizing fuel consumption through precise route planning. In defense, they can perform reconnaissance and surveillance missions without risking human lives. Meanwhile, in scientific research, drone boats are valuable for collecting oceanographic data and monitoring marine ecosystems in remote or dangerous areas. As technology advances, these autonomous vessels are expected to play an increasingly important role in maritime operations worldwide.
 
 #
 ### Hovercrafts
