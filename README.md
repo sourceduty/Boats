@@ -1,4 +1,4 @@
-![Boat Jump](https://github.com/user-attachments/assets/f613db01-a6e6-4229-a596-f63ff30a43cc)
+![Zebra Paint Yacht Design](https://github.com/user-attachments/assets/6e13ff39-1a2e-4b6d-8fee-92e2871114a6)
 
 > Classic, luxury, high-performance, heavy-duty and electric water vessel design.
 
