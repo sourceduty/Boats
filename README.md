@@ -136,6 +136,17 @@ Performance and technology are at the heart of the Scissor Door Speedboat. Equip
 #
 ### Boat Notes
 
+<details><summary>Foiling</summary>
+<br>
+
+![Foiling Workboat](https://github.com/user-attachments/assets/2e9b5aa2-411a-4e58-bf1a-ffa4c9988a15)
+
+Foiling boats represent a revolutionary advancement in marine technology, utilizing hydrofoil systems to enhance performance and efficiency. These vessels are equipped with underwater wings that lift the hull above the water’s surface as speed increases, drastically reducing drag and improving fuel economy. This design not only enables higher speeds but also provides a smoother ride by minimizing the impact of waves on the hull. By operating above the waterline, foiling workboats consume less energy and produce lower emissions, making them an environmentally conscious choice for industries that rely on marine operations. Their innovative design allows them to perform efficiently in roles such as crew transfer, offshore support, and search-and-rescue missions.
+
+The foiling mechanism offers significant advantages over traditional hull designs, particularly in terms of sustainability and operational cost. By reducing water resistance, these boats achieve remarkable speed without compromising on stability, enabling rapid deployment in demanding conditions. Additionally, the reduced fuel consumption translates to lower operational costs, which is a crucial factor for industries aiming to optimize resources. These vessels are also engineered for safety, incorporating features such as reinforced structures and advanced navigation systems. As a result, foiling workboats are becoming increasingly popular across industries that require reliable, high-performance marine solutions, embodying a perfect blend of innovation, practicality, and environmental responsibility.
+
+<br>    
+</details>
 <details><summary>Boat Planing</summary>
 <br>
 
